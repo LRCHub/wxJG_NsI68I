@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Kiss Me, Kill Me",
+  "base_artist": "ari hicks",
+  "createdAt": "2026-01-13T14:08:06.596732Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Kiss Me, Kill Me",
+      "artist": "Mest",
+      "has_synced": true,
+      "path": "select/01_Kiss_Me,_Kill_Me_Mest.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Kiss Me. Kill Me",
+      "artist": "Useless ID",
+      "has_synced": true,
+      "path": "select/02_Kiss_Me._Kill_Me_Useless_ID.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Kiss Me Kill Me",
+      "artist": "Odyssey Eurobeat",
+      "has_synced": true,
+      "path": "select/03_Kiss_Me_Kill_Me_Odyssey_Eurobeat.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Kiss Me, Kill Me-MP3",
+      "artist": "MEST",
+      "has_synced": true,
+      "path": "select/04_Kiss_Me,_Kill_Me-MP3_MEST.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Kiss Me Kill Me",
+      "artist": "Agonoize",
+      "has_synced": false,
+      "path": "select/05_Kiss_Me_Kill_Me_Agonoize.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Kiss Me, Kill Me",
+      "artist": "Num Skull",
+      "has_synced": false,
+      "path": "select/06_Kiss_Me,_Kill_Me_Num_Skull.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Kiss me Kill me",
+      "artist": "Liv Moon",
+      "has_synced": true,
+      "path": "select/07_Kiss_me_Kill_me_Liv_Moon.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Kiss Me (Kill Me)",
+      "artist": "JerryTerry",
+      "has_synced": true,
+      "path": "select/08_Kiss_Me_(Kill_Me)_JerryTerry.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Kiss Me Kill Me",
+      "artist": "Mest",
+      "has_synced": true,
+      "path": "select/09_Kiss_Me_Kill_Me_Mest.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Kiss Me, Kill Me",
+      "artist": "ARI",
+      "has_synced": true,
+      "path": "select/10_Kiss_Me,_Kill_Me_ARI.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Hold Me, Kiss Me, Kill Me, Thrill Me",
+      "artist": "U2",
+      "has_synced": true,
+      "path": "select/11_Hold_Me,_Kiss_Me,_Kill_Me,_Thrill_Me_U2.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Kiss Me, Kill Me",
+      "artist": "ARI HICKS",
+      "has_synced": false,
+      "path": "select/12_Kiss_Me,_Kill_Me_ARI_HICKS.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Hold Me, Thrill Me, Kiss Me, Kill Me",
+      "artist": "U2",
+      "has_synced": true,
+      "path": "select/13_Hold_Me,_Thrill_Me,_Kiss_Me,_Kill_Me_U2.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Hold Me, Thrill Me, Kiss Me, Kill Me",
+      "artist": "U2",
+      "has_synced": true,
+      "path": "select/14_Hold_Me,_Thrill_Me,_Kiss_Me,_Kill_Me_U2.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ari hicks - Kiss Me, Kill Me",
+      "artist": "ari hicks",
+      "has_synced": true,
+      "path": "select/15_ari_hicks_-_Kiss_Me,_Kill_Me_ari_hicks.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Hold Me Thrill Me Kiss Me Kill Me",
+      "artist": "U2",
+      "has_synced": true,
+      "path": "select/16_Hold_Me_Thrill_Me_Kiss_Me_Kill_Me_U2.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Kiss Me, Kill Me",
+      "artist": "ari hicks",
+      "has_synced": false,
+      "path": "select/pl_01_Kiss_Me,_Kill_Me_ari_hicks.txt"
+    }
+  ]
+}
